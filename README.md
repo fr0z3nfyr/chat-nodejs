@@ -9,9 +9,9 @@ http://udidu.blogspot.com/2012/11/chat-evolution-nodejs-and-socketio.html
 
 ### To run:
 
-Please be sure you have expressjs and socket.io modules installed before running this application.
-
 On Windows/Mac/Linux:
+
+	$ npm install
 
 	$ node server.js
 	
