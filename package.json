@@ -1,7 +1,7 @@
 {
 	"name": "chat-nodejs",
 	"version": "0.0.0",
-	"description": "Multi-Room Chat Application"
+	"description": "Multi-Room Chat Application",
 	"dependencies": {
 		"express": "latest",
 		"socket.io": "latest" 
